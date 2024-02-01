@@ -1,14 +1,17 @@
+<p align="center">🚀 Passionate about tackling tech challenges! Always eager to explore and leverage new technologies for high-quality solutions. 💻</p>&nbsp;
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/wendel211/wendel211/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wendel+Muniz;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Information;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wendel211&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-wendel211.vercel.app/api/top-langs/?username=wendel211&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wendel211&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=8A2BE2&bg_color=000000" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendel211&layout=compact&hide_border=true&title_color=FFFFFF&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
  &nbsp;
  &nbsp;
 
@@ -59,4 +62,4 @@
  
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
