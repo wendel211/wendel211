@@ -1,9 +1,9 @@
 <p align="center">🚀 Passionate about tackling tech challenges! Always eager to explore and leverage new technologies for high-quality solutions. 💻</p>&nbsp;
 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wendel211&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=8A2BE2&bg_color=000000" /> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wendel211&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=8A2BE2&bg_color=000000" /> 
 color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wendel+Muniz;I'm+20+years+old;I'm+from+Brazil;I+Graduated+systems+Information;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
