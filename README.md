@@ -14,8 +14,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendel211&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" alt="Wendel Muniz streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=wendel211&theme=radical&hide_border=true&stroke=ff91a4&background=0D1117&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" alt="Wendel Muniz streak stats"/>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wendel211&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
