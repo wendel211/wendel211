@@ -14,7 +14,10 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wendel211&theme=radical&hide_border=true&stroke=ff91a4&background=0D1117&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" alt="Wendel Muniz streak stats"/>
+  <img 
+    src="https://github-readme-streak-stats-three-tau.vercel.app/?user=wendel211&theme=radical&hide_border=true&stroke=ff91a4&background=0D1117&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4&cache_seconds=3600" 
+    alt="Wendel Muniz streak stats" 
+  />
 </div>
 
 
@@ -26,8 +29,6 @@
 
 
 ## My Skills
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Frontend Development:
 
