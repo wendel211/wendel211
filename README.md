@@ -5,7 +5,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=38BDF8&size=22&center=true&vCenter=true&width=1000&lines=Building+scalable+solutions;React+%7C+Node.js+%7C+Laravel+%7C+TypeScript;Clean+Architecture+%26+Performance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=38BDF8&size=22&center=true&vCenter=true&width=1000&lines=Building+scalable+solutions" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -24,13 +24,13 @@
   <br/>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php,prisma,docker,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php,prisma,docker,python&theme=dark" />
   </a>
 
   <br/>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase,git,github,jest&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,fastapi,firebase,git,github,jest&theme=dark" />
   </a>
 
   <br/><br/>
@@ -44,9 +44,7 @@
   <a href="mailto:contato.wendelmuniz04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.instagram.com/wendelmuniz_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
-  </a>
+
 
   <br/><br/>
 
