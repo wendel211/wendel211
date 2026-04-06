@@ -11,7 +11,7 @@
   <br/>
 
   <p width="600px">
-    Passionate about tackling tech challenges with 2+ years of experience building innovative solutions.<br/>
+    Passionate about tackling tech challenges with 3+ years of experience building innovative solutions.<br/>
     Always eager to explore and leverage new technologies to deliver high-quality, scalable applications.
   </p>
   
